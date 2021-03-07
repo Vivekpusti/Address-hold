@@ -7,4 +7,4 @@ Name-Vivek Pusti
 
 
 # Screenshot
-![](capture.png)
+![](capture.PNG)
